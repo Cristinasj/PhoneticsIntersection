@@ -1,0 +1,53 @@
+|Phonetic|English|Spanish|
+|--------|-------|-------|
+||**Consonants**||
+||Only Spanish||
+|x||caja|
+|ʎ||ya|
+|ɲ||moño|
+||Shared||
+|m|man|mano|
+|n|night|noche|
+|b|bed|baño|
+|d|dig|dar|
+|p|pen|pagar|
+|t|tea|tomar|
+|k|key|corazón|
+|g|get|gato|
+|tʃ|church|churros|
+|f|fat|foca|
+|θ|thing|caza|
+|s|soon|sopa|
+|l|light|loro|
+|r|right|cara|
+||Only English||
+|ŋ|comming||
+|w|wardrove||
+|j|yes||
+|dʒ|age||
+|v|view||
+|ð|this||
+|z|zero||
+|ʃ|ship||
+|ʒ|pleasure||
+|h|hot||
+||**Vowels**||
+||Only Spanish||
+|a||casa|
+|o||no|
+||Shared||
+|i|happy|filipino|
+|e|dress|espejo|
+|u|you|uso|
+||Only English||
+|ɪ|kit||
+|æ|trap||
+|ɒ|lot||
+|ʌ|love||
+|ʊ|put||
+|aɪ|price||
+|ɔɪ|choice||
+|ɑː|start||
+|ɔː|law||
+|ɜː|learn||
+|ə|about||
